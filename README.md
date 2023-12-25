@@ -1,5 +1,5 @@
 
-![Quizzler Banner](Documentation/Quizzler%20Swift.png)
+![Quizzler Banner](Documentation/Quizzler%20Swift.jpg)
 
 #  Quizzler
 
